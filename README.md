@@ -6,7 +6,7 @@
 
 Полноценный VPN-сервис с веб-интерфейсом, системой оплаты и автоматическим управлением подписками на базе 3x-UI панели.
 
-<img src="./photo1.png" width="300" height="200" alt="-"/><img src="./photo2.png" width="300" height="200" alt="-"/><img src="./photo3.png" width="300" height="200" alt="-"/>
+<img src="./photo1.png" width="300" height="600" alt="-"/><img src="./photo2.png" width="300" height="600" alt="-"/><img src="./photo3.png" width="300" height="600" alt="-"/>
 
 ## 🚀 Функциональность
 
